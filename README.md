@@ -1,7 +1,7 @@
 # Calendario
 ## Calendario: Um calendario usando HTML, CSS e JavaScript
 
-> Tema: São Paulo FC </br>
+> Tema: SE Palmeiras </br>
 
 > status: concluido ✔️
 
